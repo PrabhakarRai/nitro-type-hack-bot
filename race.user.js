@@ -4,10 +4,7 @@
 // @version      5.2
 // @description  Browser counterpart of Nitro Typer 5.0
 // @author       Prabhakar Rai
-// @match        https://www.nitrotype.com/race/*
-// @match        https://www.nitrotype.com/race
-// @match        https://test.nitrotype.com/race/*
-// @match        https://test.nitrotype.com/race
+// @match        https://*.nitrotype.com/race*
 // @icon         https://raw.githubusercontent.com/PrabhakarRai/nitro-type-hack-bot/master/icon.png
 // @updateURL    https://raw.githubusercontent.com/PrabhakarRai/nitro-type-hack-bot/new_track/race.user.js
 // @downloadURL  https://raw.githubusercontent.com/PrabhakarRai/nitro-type-hack-bot/new_track/race.user.js
