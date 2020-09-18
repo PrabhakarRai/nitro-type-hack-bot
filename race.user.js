@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Nitro Typer 5.0
+// @name         Nitro Typer 5
 // @namespace    https://www.theprabhakar.in/
 // @version      5.2
-// @description  Browser counterpart of Nitro Typer 5.0
+// @description  Browser counterpart of Nitro Typer 5
 // @author       Prabhakar Rai
 // @match        https://*.nitrotype.com/race*
 // @icon         https://raw.githubusercontent.com/PrabhakarRai/nitro-type-hack-bot/master/icon.png
