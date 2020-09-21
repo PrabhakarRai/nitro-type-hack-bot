@@ -1,5 +1,5 @@
 # Nitro-Type-Hack-Bot
-## Nitro Typer 5.0 ~ By Madcap Hacker
+## Nitro Typer 5 ~ By Madcap Hacker
 * Automatic Lesson Detection
 * Automatic Next Race Start
 * It can do up to 750 session races
