@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Nitro Typer 5
 // @namespace    https://www.theprabhakar.in/
-// @version      5.2
+// @version      5.2.1
 // @description  Browser counterpart of Nitro Typer 5
 // @author       Prabhakar Rai
-// @match        https://test.nitrotype.com/race*
-// @icon         https://raw.githubusercontent.com/PrabhakarRai/nitro-type-hack-bot/new_track/icon.png
-// @updateURL    https://raw.githubusercontent.com/PrabhakarRai/nitro-type-hack-bot/new_track/race.user.js
-// @downloadURL  https://raw.githubusercontent.com/PrabhakarRai/nitro-type-hack-bot/new_track/race.user.js
+// @match        https://*.nitrotype.com/race*
+// @icon         https://raw.githubusercontent.com/PrabhakarRai/nitro-type-hack-bot/master/icon.png
+// @updateURL    https://raw.githubusercontent.com/PrabhakarRai/nitro-type-hack-bot/master/race.user.js
+// @downloadURL  https://raw.githubusercontent.com/PrabhakarRai/nitro-type-hack-bot/master/race.user.js
 // @grant        unsafeWindow
 // @grant        GM_addStyle
 // @grant        GM_getValue
