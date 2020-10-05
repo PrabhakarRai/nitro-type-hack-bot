@@ -2,7 +2,7 @@
 ## Nitro Typer 5 ~ By Madcap Hacker
 * Automatic Lesson Detection
 * Automatic Next Race Start
-* It can do up to 750 session races
+* It can do up to 1500 session races
 * Speed Randomization
 * Accuracy and Nitro Use Randomization
 * Very safe and undetectable
