@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Nitro Typer
 // @namespace    https://www.theprabhakar.in/
-// @version      5.4
+// @version      5.4.2
 // @description  Browser counterpart of Nitro Typer 5
 // @author       Prabhakar Rai
 // @match        https://www.nitrotype.com/race
